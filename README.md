@@ -1,3 +1,3 @@
-# french_wine
+# Coupon Collector Problem
 
 S
