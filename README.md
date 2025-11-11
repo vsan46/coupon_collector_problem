@@ -23,7 +23,7 @@ Biology: Estimating the number of species in an ecosystem or samples needed for 
 Marketing & Games: Calculating the pulls needed in "gacha" games or collecting all toys in a series (e.g., cereal boxes).
 
 # Solution to Problem
-coupon_collector_problem.ipynb
+[coupon_collector_problem.ipynb](https://github.com/vsan46/coupon_collector_problem/blob/253f9b70a291f686574eed367b91ceb40546acd7/coupon_collector_problem.ipynb)
 
 # Simulation to see convergence
-coupon_collector_simulation.ipynb
+[coupon_collector_simulation.ipynb](https://github.com/vsan46/coupon_collector_problem/blob/253f9b70a291f686574eed367b91ceb40546acd7/coupon_collector_simulation.ipynb)
